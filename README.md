@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SnrEdward
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning python and c++
-- 💞️ I’m looking to collaborate on Ethical Hacking, Machine Learning 
+- 💞️ I’m looking to collaborate on Ethical Hacking, AI > Machine Learning 
 - 📫 How to reach me ...edwardmendle7@gmail.com 
 
 <!---
